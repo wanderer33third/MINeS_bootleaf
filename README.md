@@ -5,6 +5,7 @@ A simple, responsive template for building web mapping applications with [Bootst
 
 ### Demo:
 http://bmcbride.github.io/bootleaf/
+wanderer33third.github.io/MINeS_bootleaf/index.html
 
 ### Features:
 * Fullscreen mobile-friendly map template with responsive Navbar and modal placeholders
